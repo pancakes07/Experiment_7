@@ -1,6 +1,5 @@
 class Mtd:
     def Fun(self,a,b):
-        print("yo")
         print(a+b)
 obj=Mtd()
 obj.Fun(3,9)
